@@ -1,0 +1,22 @@
+---
+layout: single
+title: Janus Hasseriis
+tags: [om mig, workshops, agile]
+modified: 2020-04-09T20:53:07.573882-04:00
+comments: true
+image:
+  feature: sample-image-2.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+author_profile: true
+---
+
+Igennem 20 år, har jeg opbygget stor erfaring med udvikling af og drift af hjemmesider i alle størrelser og mange udforminger.
+
+Konkret har jeg været involveret i idéudvikling, design, funktionstest, implementering, efterkritik og daglig brug af hjemmesider lavet i HTML, React, ASP, Node.js og PHP.
+
+Jeg har arbejdet med store og små projekter, fra temahjemmesider til SaaS-produkter.
+
+Min uddannelse er Mediekoordinator, en projektlederuddannelse med fokus på at lære de forskellige teknologier, men også en moderne tilgang til projekter og teams.
+
+Mens jeg var hos DR (Danmarks Radio) begyndte Agile og Scrum at blive udbredt, og det ledte til et personligt fokus på hvad er det egentlig, der får projekter til at fungere og lykkedes. Eller det modsatte.
