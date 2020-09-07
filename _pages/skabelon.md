@@ -7,8 +7,6 @@ image:
   feature: sample-image-2.jpg
 ---
 
-<script async id="_simplero_landing_page_js_166447" src="https://janushasseriis.simplero.com/page/166447.js"></script>
-
 <div class="video-container">
     <iframe class="video" src="https://www.youtube.com/embed/gWCx0l1jLTw" allowfullscreen></iframe>
 </div>
