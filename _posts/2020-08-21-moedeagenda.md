@@ -1,6 +1,7 @@
 ---
 title: Lav en mødeagenda
 tags: [møde, mødeagenda, mødekultur]
+excerpt: "Ind imellem er et klassisk møde nødvendigt, men det betyder jo ikke, at vi ikke skal prøve at forbedre vores arbejdsliv i dén henseende også. Så her får du et par tips til at sikre et positivt møde, som deltagerne ikke føler er helt spild af tid."
 ---
 
 
@@ -8,7 +9,7 @@ tags: [møde, mødeagenda, mødekultur]
 
 Nå men, hvordan har du det med møder?
 
-Men ind imellem er et klassisk møde nødvendigt, men det betyder jo ikke, at vi ikke skal prøve at forbedre vores arbejdsliv i dén henseende også.
+Ind imellem er et klassisk møde nødvendigt, men det betyder jo ikke, at vi ikke skal prøve at forbedre vores arbejdsliv i dén henseende også.
 
 
 Så her får du et par tips til at sikre et positivt møde, som deltagerne ikke føler er helt spild af tid.
