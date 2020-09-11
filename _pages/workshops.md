@@ -4,12 +4,11 @@ title: Workshops
 tags: [Workshops, Lightning Decision Jam, Design Sprint]
 modified: 2020-04-09T20:53:07.573882-04:00
 comments: false
-permalink: "workshops"
 image:
   feature: sample-image-2.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
-#permalink: /workshops/
+permalink: /workshops/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"

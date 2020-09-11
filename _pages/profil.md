@@ -9,7 +9,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 author_profile: true
-permalink: "profil"
+permalink: "/profil/"
 ---
 
 Igennem 20 år, har jeg opbygget stor erfaring med udvikling af og drift af hjemmesider i alle størrelser og mange udforminger.

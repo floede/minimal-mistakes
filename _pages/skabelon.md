@@ -5,7 +5,7 @@ tags: [Skabelon, Workshop, LDJ, Lightning Decision Jam]
 author_profile: true
 image:
   feature: sample-image-2.jpg
-permalink: "skabelon"
+permalink: "/skabelon/"
 ---
 
 <div class="video-container">
