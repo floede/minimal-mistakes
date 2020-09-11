@@ -4,6 +4,7 @@ title: Workshops
 tags: [Workshops, Lightning Decision Jam, Design Sprint]
 modified: 2020-04-09T20:53:07.573882-04:00
 comments: false
+permalink: "workshops"
 image:
   feature: sample-image-2.jpg
   credit: WeGraphics
@@ -42,7 +43,7 @@ feature_row2:
     alt: "Post-it notes on a table"
     title: "Lightning Decision Jam"
     excerpt: "En fast struktur der fokuserer på at få input fra alle, ikke kun dem der råber højest."
-    url: "_pages/workshops/ldj"
+    url: "workshops/lightning-decision-jam"
     btn_label: "Læs mere"
     btn_class: "btn--primary"
 feature_row3:
@@ -50,7 +51,7 @@ feature_row3:
     alt: "Design Sprint"
     title: "Design Sprint"
     excerpt: 'En kombination af blandt andet forretningsstrategi, innovation, adfærdsvidenskab og "design thinking". En gennemtestet pakke som et hvert team kan bruge.'
-    url: "_pages/workshops/ds"
+    url: "workshops/design-sprint"
     btn_label: "Læs mere"
     btn_class: "btn--primary"
 #feature_row4:

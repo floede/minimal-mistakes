@@ -3,6 +3,7 @@ layout: single
 title: Lightning Decision Jam
 author_profile: true
 #description: Løs problemer & tag beslutninger
+permalink: "workshops/lightning-decision-jam"
 ---
 
 Er det svært at få taget beslutninger? <br />

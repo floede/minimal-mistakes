@@ -4,6 +4,7 @@ title: Design Sprint
 author_profile: true
 #description: Test ideer med en prototype
 #img: /assets/img/ds-thumb.png
+permalink: "workshops/design-sprint"
 ---
 
 En kombination af blandt andet forretningsstrategi, innovation, adfærdsvidenskab og "design thinking". En gennemtestet pakke som et hvert team kan bruge.
