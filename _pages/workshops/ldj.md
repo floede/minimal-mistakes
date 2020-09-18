@@ -13,7 +13,7 @@ Prøv at hold dit møde som en workshop med fast struktur i stedet.
 En fast struktur der fokuserer på at få input fra alle, ikke kun dem der råber højest.
 Slutresultatet er konkrete opgaver, som kan startes med samme.
 
-### Detaljer
+## Detaljer
 
 **Mål:** Løs problemer og tag beslutninger
 
@@ -53,6 +53,13 @@ Det er en god idé at have mindst én beslutningstager med som deltager. Det kun
 
 Det er også muligt at lave Lightning Decision Jam digitalt for distribuerede teams eller andre der arbejder remotely.
 
-### Kontakt mig
+## Kontakt mig
 
 Vil du gerne høre mere om Lightning Decision Jam og hvordan I evt. kan bruge det i din virksomhed, så kontakt mig på: <a href="mailto:janus@hasseriis.net">janus@hasseriis.net</a>
+
+## Vidnesbyrd
+
+> Workshoppen er en super fed introduktion til mange rigtig gode metoder, som vi personligt syntes er fede og faktisk allerede gør brug af :)
+> Jeg vil klart anbefale den til nye teams/project managers der har brug for værktøjer til at forbedre/skabe bedre planlægnings- og kommunikations-workflow.
+> <cite>Mikkel Søgaard</cite> --- Digital Devotion
+> {: .small}
