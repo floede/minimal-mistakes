@@ -1,24 +1,22 @@
 ---
 layout: single
-title: Workshop-skabelon
+title: 4 enkle skridt til at få struktur i dine workshops
 tags: [Skabelon, Workshop, LDJ, Lightning Decision Jam]
 author_profile: true
 image:
   feature: sample-image-2.jpg
 permalink: "/skabelon/"
+header:
+  video:
+    id: gWCx0l1jLTw
+    provider: youtube
 ---
-
-<div class="video-container">
-    <iframe class="video" src="https://www.youtube.com/embed/gWCx0l1jLTw" allowfullscreen></iframe>
-</div>
-
-# 4 enkle skridt til at få struktur i dine workshops.
 
 Ideen med skabelonen her er at give dig en ramme eller model til at lave dine egne workshops, men også se hvorfor og hvordan en workshop som Lynhurtig Beslutningsproces virker.
 
 Der er fire enkle og logiske skridt, som tager dig fra at have en udfordring, til at have konkrete opgaver, som dit team kan gå gang med.
 
-## **Prioritering**
+## Prioritering
 
 Hvad enten udfordringen er en komplet overhaling af produktets UX eller at teamet drikker for meget kaffe, så er den første øvelse af indsamle alle relevante og irrelevante bud på problemer.
 Samtidig bliver to vigtige principper for workshoppen etableret:
