@@ -8,7 +8,7 @@ Helt ærligt, så fik jeg så fik god og interessant feedback på sidste uges [*
 
 Og jeg lavede listen med tips til en checkliste du kan printe ud:
 
-[Hent en checkliste til dit mødeagenda](https://us.simplerousercontent.net/uploads/asset/file/4169625/Checkliste.pdf).
+[Hent en checkliste til dit mødeagenda](https://us.simplerousercontent.net/uploads/asset/file/4169625/Checkliste.pdf){: .btn .btn--info}
 
 Det provokerer lidt når man siger ting som "møder er spild af tid". Og selvfølgelig er hele grunden til at jeg skriver det her, at jeg godt ved at møder er nødvendige. Vi kan ikke bare arbejde i isolation hver især altid. Nogle ting skal vendes og drejes.
 
