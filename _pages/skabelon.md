@@ -6,11 +6,9 @@ author_profile: true
 image:
   feature: sample-image-2.jpg
 permalink: "/skabelon/"
-header:
-  video:
-    id: gWCx0l1jLTw
-    provider: youtube
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gWCx0l1jLTw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 Ideen med skabelonen her er at give dig en ramme eller model til at lave dine egne workshops, men også se hvorfor og hvordan en workshop som Lynhurtig Beslutningsproces virker.
 
