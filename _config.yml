@@ -20,7 +20,7 @@ title: "Janus Hasseriis"
 title_separator: "-"
 subtitle: Mine workshops, artikler, arrangementer med mere.
 name: "Janus Hasseriis"
-description: "Personlig hjemmeside"
+description: "Janus Hasseriis skriver artikler om Design Sprint, workshops, møder, mødekultur, projektledelse, projektkultur og hvordan vi kan forbedre projekter med små skridt."
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
