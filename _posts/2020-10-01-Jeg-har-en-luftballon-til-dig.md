@@ -5,6 +5,8 @@ excerpt: "Det slog mig, at en min model for en workshop kan være for abstrakt, 
 newsletter_box: true
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ff9QjxQmPbQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+
 Det slog mig, at en min model for en workshop kan være for abstrakt, og i virkeligheden slet ikke er første skridt, hvis man aldrig har stået i et mødelokale og sat post-its med gode ideer på væggene.
 
 Så jeg tænke: hvorfor ikke gøre det helt konkret? Så nu har jeg forberedt 4 konkrete øvelser, én til hvert skridt i skabelonen.
