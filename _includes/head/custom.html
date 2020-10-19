@@ -49,4 +49,10 @@
     src="https://www.facebook.com/tr?id=3066974913414305&ev=PageView&noscript=1" /></noscript
 ><!-- End Facebook Pixel Code -->
 
+{% if page.thank_you %}
+<script>
+  fbq("track", "Lead");
+</script>
+{% endif %}
+
 <!-- end custom head snippets -->

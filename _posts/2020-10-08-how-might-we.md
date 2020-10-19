@@ -1,5 +1,5 @@
 ---
-title: "How Might We"
+title: "Problemstilling: How Might We"
 tags: [workshop, HMW, How Might We, øvelse, problemstilling]
 newsletter_box: true
 ---

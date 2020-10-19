@@ -1,5 +1,5 @@
 ---
-title: "Jeg har en luftballon til dig"
+title: "Prioritering: Luftballon"
 tags: [workshop, luftballon, øvelse, prioritering]
 excerpt: "Det slog mig, at en min model for en workshop kan være for abstrakt, og i virkeligheden slet ikke er første skridt, hvis man aldrig har stået i et mødelokale og sat post-its med gode ideer på væggene."
 newsletter_box: true
