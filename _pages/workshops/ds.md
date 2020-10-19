@@ -5,6 +5,11 @@ author_profile: true
 #description: Test ideer med en prototype
 #img: /assets/img/ds-thumb.png
 permalink: "workshops/design-sprint"
+header:
+  overlay_color: "#899878"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/gautam-lakum-uHGgvNwrW2o-unsplash.jpg
+  caption: "Foto: [**Unsplash**](https://www.unsplash.com/)"
 ---
 
 En kombination af blandt andet forretningsstrategi, innovation, adfærdsvidenskab og "design thinking". En gennemtestet pakke som et hvert team kan bruge.

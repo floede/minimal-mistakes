@@ -4,20 +4,13 @@ title: Workshops
 tags: [Workshops, Lightning Decision Jam, Design Sprint]
 modified: 2020-04-09T20:53:07.573882-04:00
 comments: false
-image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 permalink: /workshops/
 date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_color: "#000"
+  overlay_color: "#899878"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  #actions:
-  #  - label: "Download"
-  #    url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: /assets/images/pexels-startup-stock-photos-7097.jpg
+  caption: "Foto: [**Pexels**](https://www.pexels.com/)"
 #excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro:
   - excerpt: "Diverse workshops som jeg faciliterer og underviser i."

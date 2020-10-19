@@ -4,10 +4,11 @@ title: Janus Hasseriis
 tags: [om mig, workshops, agile]
 modified: 2020-04-09T20:53:07.573882-04:00
 comments: true
-image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+header:
+  overlay_color: "#899878"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/pexels-tim-gouw-53874.jpg
+  caption: "Foto: [**Pexels**](https://www.pexels.com/)"
 author_profile: true
 permalink: "/profil/"
 ---

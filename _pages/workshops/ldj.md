@@ -4,6 +4,11 @@ title: Lightning Decision Jam
 author_profile: true
 #description: Løs problemer & tag beslutninger
 permalink: "workshops/lightning-decision-jam"
+header:
+  overlay_color: "#899878"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/pexels-martinus-88491.jpg
+  caption: "Foto: [**Pexels**](https://www.pexels.com/)"
 ---
 
 Er det svært at få taget beslutninger? <br />
