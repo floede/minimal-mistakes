@@ -1,7 +1,7 @@
 ---
 title: "Plan: Who, What, When"
 tags: [workshop, who what when, øvelse, plan, planlægning]
-excerpt: ""
+excerpt: "På et whiteboard eller et stort stykke papir tegner du tre brede kolonner. I toppen skriver du: Hvem, Hvad, Hvornår i hver sin kolonne."
 header:
   overlay_color: "#000"
   overlay_filter: "0.7"
