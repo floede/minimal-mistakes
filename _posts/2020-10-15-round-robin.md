@@ -1,7 +1,7 @@
 ---
 title: "Påhit: Round Robin"
 tags: [workshop, round robin, øvelse, påhit, idegenerering, brainstorm]
-excerpt: ""
+excerpt: "Nu er det tid til at få en masse gode ideer!"
 header:
   overlay_color: "#000"
   overlay_filter: "0.7"
