@@ -11,6 +11,16 @@ header:
 newsletter_box: true
 ---
 
+Hvis du gerne vil have huskelisten som PDF, Word eller Excell, kan du give mig din email, så sender jeg den til dig.
+
+<div class="form-container">
+<form action="https://janushasseriis.simplero.com/optin/WQkxJrsNbc214WskqdZMWspJ/182473" method="post"><img src="https://janushasseriis.simplero.com/F/182473" width="1" height="1" alt="." />
+  <p>Fornavn: <input type="text" name="first_names"></p>
+  <p>Email: <input type="email" name="email" pattern="[^@\s]+@[^@\s]+\.[^@\s]+" required="required"></p>
+  <p><input name="submit" value="Ja tak, en huskeliste er altid godt!" type="submit" class="simplero-submit btn--primary"></p>
+</form>
+</div>
+
 ## Fysisk
 
 ### Forberedelse
