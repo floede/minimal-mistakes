@@ -2,7 +2,6 @@
 layout: single
 title: Janus Hasseriis
 tags: [om mig, workshops, agile]
-modified: 2020-04-09T20:53:07.573882-04:00
 comments: true
 header:
   overlay_color: "#899878"
