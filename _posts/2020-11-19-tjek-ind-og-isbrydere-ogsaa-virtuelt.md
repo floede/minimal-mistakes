@@ -11,7 +11,7 @@ tags:
     struktur,
     formål,
   ]
-excerpt: "Jeg sætter nogle ord på, hvad det er jeg mener, når jeg bruger begrebet."
+excerpt: "Særligt hvis man har at gøre med en gruppe mennesker der ikke kender hinanden kan det være en god ide at 'bryde isen'."
 header:
   overlay_color: "#000"
   overlay_filter: "0.7"
