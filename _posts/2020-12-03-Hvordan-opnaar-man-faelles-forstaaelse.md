@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/pexels-vlada-karpovich-4050315.jpg
   caption: "Billede: [**Pexels**](https://pexels.com)"
 newsletter_box: true
-published: false
+published: true
 ---
 
 Jeg lavede for nylig en afstemning på Twitter, hvor jeg spurgte:
