@@ -38,11 +38,11 @@ Man kan kunne også forestille sig et længere seminar med oplæg og workshops, 
 
 Men ville en mellemting mellem de to versioner se ud? Noget håndgribeligt man kunne lave, der ikke behøvede at tage hele dage.
 
-Og så kom jeg til at tænke på den del af Design Sprint, som man kalder "Spørg Eksperterne".
+Og så kom jeg til at tænke på den del af [Design Sprint](http://hasseriis.net/workshops/design-sprint), som man kalder "Spørg Eksperterne".
 
 Det er en relativt kort runde, hvor man inviterer forskellige eksperter - det vil sige medarbejdere med forskelige arbejdsområder og ekspertiser - til at fortælle om deres udfordringer.
 
-Og imens tager de andre deltagere noter. Noterne skal være formuleret som "How Might We"-sætninger.
+Og imens tager de andre deltagere noter. Noterne skal være formuleret som ["How Might We"-sætninger](http://hasseriis.net/how-might-we/).
 
 Så hvis jeg skulle lave en kort "Fælles Forståelse"-workshop ville jeg gøre det sådan her:
 
