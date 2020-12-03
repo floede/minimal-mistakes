@@ -5,7 +5,7 @@ excerpt: "Hvis jeg skulle lave en kort 'Fælles Forståelse'-workshop ville jeg 
 header:
   overlay_color: "#000"
   overlay_filter: "0.7"
-  overlay_image: /assets/images/pexels-vlada-karpovich-4050315.jpg
+  overlay_image: /assets/images/pexels-fauxels-3183197.jpg
   caption: "Billede: [**Pexels**](https://pexels.com)"
 newsletter_box: true
 published: true
