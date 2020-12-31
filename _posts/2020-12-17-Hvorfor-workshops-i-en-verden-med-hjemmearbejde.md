@@ -1,5 +1,5 @@
 ---
-title: "# Hvorfor workshops i en verden med hjemmearbejde?"
+title: "Hvorfor workshops i en verden med hjemmearbejde?"
 tags: [workshops, remote, hjemmearbejde, kommunikation, forståelse]
 excerpt: "Der er fordele ved at afvikle en workshop digitalt"
 header:
