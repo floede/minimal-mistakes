@@ -1,14 +1,14 @@
 ---
-title: "Lær at stole på dine kollegaer/medarbejdere"
-tags: [tillid, projekt, kommunikation, forståelse]
+title: "De Seks Tænkehatte"
+tags: ["de seks tænkehatte", møde, workshop, kommunikation, forståelse]
 excerpt: ""
 header:
   overlay_color: "#000"
   overlay_filter: "0.7"
-  overlay_image: /assets/images/pixabay-startup-593343_1920.jpg
-  caption: "Billede: [**Pexels**](https://pixabay.com)"
+  overlay_image: /assets/images/pexels-skitterphoto-38070.jpg
+  caption: "Billede: [**Pexels**](https://pexels.com)"
 newsletter_box: true
-published: false
+published: true
 ---
 
 Løs problemer og tag beslutninger ved at tænke parallelt.
@@ -21,14 +21,15 @@ På den måde undgår man endeløse diskussioner og sårede følelser.
 
 ## Farverne og deres betydning
 
-Hvid hat for for fakta og neutralitet.
-Rød hat for følelser og fornemmelser.
-Sort hat for pessimisme og kritisk analyse.
-Gul hat for optimisme og konstruktiv tænkning.
-Grøn hat for kreativitet og nye synsvinkler.
-Blå hat for overblik og kontrol.
+🎩 Hvid hat for for fakta og neutralitet.\
+🎩 Rød hat for følelser og fornemmelser.\
+🎩 Sort hat for pessimisme og kritisk analyse.\
+🎩 Gul hat for optimisme og konstruktiv tænkning.\
+🎩 Grøn hat for kreativitet og nye synsvinkler.\
+🎩 Blå hat for overblik og kontrol.
 
 Kilde: [](https://janfjordbak.dk/de-seks-taenkehatte/)[https://janfjordbak.dk/de-seks-taenkehatte/](https://janfjordbak.dk/de-seks-taenkehatte/)
+{: .notice--info}
 
 ## Her er reglerne
 
