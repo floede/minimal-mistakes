@@ -1,7 +1,7 @@
 ---
 title: "Hvad er pretotyping?"
 tags: [pretotype, pretotyping, workshop]
-excerpt: ""
+excerpt: "Rent konkret har en pretotype mange lighedspunkter med en prototype, og når man læser om hvilke måder man kan lave en pretotype på, så er der rigtig mange overlap mellem de to."
 header:
   overlay_color: "#000"
   overlay_filter: "0.7"
