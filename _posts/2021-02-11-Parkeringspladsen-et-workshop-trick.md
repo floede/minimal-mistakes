@@ -18,7 +18,7 @@ Måske er der særligt én person, der bevidst eller ubevidst fører samtalen p�
 
 **Hvad gør man så?**
 
-Det er en problemstilling, som jeg tror de fleste mødearrangører og fascilitatorer kender til.
+Det er en problemstilling, som jeg tror de fleste mødearrangører og facilitatorer kender til.
 Og selvom man måske er opmærksom på problemet mens det sker, så er det ikke altid nemt at gribe ind på en god måde. Måske synes man selv at det er et spændende emne, der bliver taget op.
 
 <figure class="align-center">
@@ -45,6 +45,6 @@ Efter mødet eller workshoppen er slut, brug lidt tid på at gennemgå notaterne
 
 ## Afslutning
 
-Som så mange andre tricks i fascilitatorens værktøjskasse er "Parkeringspladsen" ikke særligt indviklet eller svær at forstå.
+Som så mange andre tricks i facilitatorens værktøjskasse er "Parkeringspladsen" ikke særligt indviklet eller svær at forstå.
 
 Men tricket er at introducere konceptet _før_ der er nogen, der stiller et spørgsmål som de brænder for. For ellers kan det godt virke afvisende, når man essentielt siger: "Nej dét du siger er ikke interessant (nu)".
