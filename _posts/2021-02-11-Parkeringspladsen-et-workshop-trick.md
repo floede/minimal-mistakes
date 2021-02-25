@@ -1,6 +1,6 @@
 ---
 title: "Parkeringspladsen - et workshop-trick"
-tags: [parkeringspladsen, møde, workshop, fascilitering]
+tags: [parkeringspladsen, møde, workshop, facilitering]
 excerpt: ""
 header:
   overlay_color: "#000"
