@@ -66,3 +66,8 @@ Luftballonstegningen kan udvides med:
 - Vind der blæser ballonen fremad
 - Storm eller bjerge man skal prøve at undgå
 - Et dejligt sted at lande eller solskin
+
+## Næste øvelse
+
+Læs om andet skridt her: [How Might We](http://hasseriis.net/how-might-we/)
+{: links}

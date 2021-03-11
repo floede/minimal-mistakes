@@ -60,3 +60,8 @@ Denne metode er til en virkelig omfattende workshop, hvor der er f.eks er tid og
 ## Konklusion
 
 Uanset om du formulerer en How Might We sætning selv eller lader teamet skrive og vælge deres egen, så skulle du gerne stå tilsidst med en Problemstilling, der kan inspirere en masse goder idéer i næste fase: Påhit.
+
+## Næste øvelse
+
+Læs om tredie skridt her: [Round Robin](http://hasseriis.net/round-robin/)
+{: links}

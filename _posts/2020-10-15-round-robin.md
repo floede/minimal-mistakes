@@ -64,3 +64,8 @@ Fortsæt indtil hvert papir er fyldt ud (deltagerne har lavet fire idéer)
 I har nu en håndfuld gode idéer som er blevet gennemarbejdet af teamet. Alt efter hvor mange idéer I har og hvor stor en workshop I holder, så kan I prioritere idéerne med en stemmerunde, hvis der er behov og tid.
 
 Tag den eller de bedste idéer med til fjerde og sidste skridt: Plan. Du kan også minde teamet om at de ikke nødvendigvis skal smide de lidt mindre gode idéer ud. Hvis der er kommet nogle virkelig gode forslag, som bare lige mangler lidt finpudsning, så kan de skrives ned der hvor I gemmer jeres planer for fremtiden og f.eks være udgangspunkt for en ny workshop.
+
+## Næste øvelse
+
+Læs om fjerde og sidste skridt her: [Round Robin](http://hasseriis.net/who-what-when/)
+{: links}
