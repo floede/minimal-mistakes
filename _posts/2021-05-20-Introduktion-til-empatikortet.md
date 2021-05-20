@@ -11,6 +11,16 @@ newsletter_box: true
 published: true
 ---
 
+Helt kort, så handler det om at sætte sig i brugerens sted i forbindelse med en situation eller en oplevelse.
+Og dét skal man selvfølgelig bruge sammen med f.eks en persona, til at identificere hvor og hvad man kan forbedre.
+
+Jeg håber det er noget i kan bruge :-)
+
+<figure class="align-center">
+	<img src="https://www.gnist.com/wordpress/wp-content/uploads/2019/03/Empathy-Map-Canvas-dansk-1200x776.jpg">
+    <figcaption>Figur: gnist.com</figcaption>
+</figure>
+
 ## Trin 1: Etablér fokus og mål
 
 ### Hvem er det vi prøver at kortlægge?
@@ -38,6 +48,11 @@ Hvordan opfører brugeren sig? Hvad er hendes attitude og hvad siger hun? Er der
 ### Hvad hører brugeren?
 
 Hvad hører brugeren og hvordan påvirker det ham? Overvej de personlige kontakter med familie, venner, kollegaer samt hvad han hører og læser på de sociale medier. Hvad siger eksperterne på et givent område? Fokuser på de ting og personer der påvirker brugerens måde at tænke på og om tingene.
+
+<figure class="align-center">
+	<img src="https://cdn.storyboardthat.com/storyboard-srcsets/da-examples/bruger-empathy-eksempel.webp">
+    <figcaption>Simpel opdeling fra: storyboardthat.com</figcaption>
+</figure>
 
 ## Trin 3: Udforsk hvad der sker inde i hovedet
 
