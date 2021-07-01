@@ -67,5 +67,5 @@ Tag den eller de bedste idéer med til fjerde og sidste skridt: Plan. Du kan ogs
 
 ## Næste øvelse
 
-Læs om fjerde og sidste skridt her: [Round Robin](http://hasseriis.net/who-what-when/)
+Læs om fjerde og sidste skridt her: [Who, What, When](http://hasseriis.net/who-what-when/)
 {: links}
